@@ -1,0 +1,12 @@
+//
+//  ProductVersion.xcconfig
+//  SantanderTask
+//
+//  Created by Farid Ullah on 21/12/2020.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+PRODUCT_VERSION = 1.0.0
+PRODUCT_BUILD = 1
+

@@ -1,0 +1,20 @@
+/* 
+  Base.strings
+  SantanderTask
+
+  Created by Farid Ullah on 16/12/2020.
+  
+*/
+"OK" = "OK";
+"cancel" = "Cancel";
+"app.name"  = "Santander Task";
+
+"try.again.button" = "Try Again";
+"connectivity.issues" = "Connectivity issues";
+"connectivity.issues.meassage" = "Please check your internet connection and try again.";
+"unkown.error.occur" = "An error has occurred! Please try again later.";
+"timeout.error.occur" = "Unable to contact the server, please try later";
+
+"home.tilte" = "Home";
+"home.detail.title" = "Home Detail";
+"pokemon.image.url" = "https://pokeres.bastionbot.org/images/pokemon/%1$d.png";

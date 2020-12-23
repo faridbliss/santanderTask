@@ -1,0 +1,16 @@
+//
+//  Prod.xcconfig
+//  SantanderTask
+//
+//  Created by Farid Ullah on 21/12/2020.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Base.xcconfig"
+
+BUILD_USER = $(USER)
+PRODUCT_NAME = Santander Task
+PRODUCT_DISPLAY_NAME = Santander Task
+PRODUCT_BUNDLE_IDENTIFIER = com.blissApplications.SantanderTask.prod
